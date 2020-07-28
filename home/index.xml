@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes | Raghuram Shankar</title>
+    <link>https://raghuramshankar.github.io/home/</link>
+      <atom:link href="https://raghuramshankar.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <description>Homes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://raghuramshankar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Homes</title>
+      <link>https://raghuramshankar.github.io/home/</link>
+    </image>
+    
+    <item>
+      <title>Biography</title>
+      <link>https://raghuramshankar.github.io/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://raghuramshankar.github.io/home/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://raghuramshankar.github.io/home/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://raghuramshankar.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://raghuramshankar.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://raghuramshankar.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://raghuramshankar.github.io/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://raghuramshankar.github.io/home/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://raghuramshankar.github.io/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://raghuramshankar.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
